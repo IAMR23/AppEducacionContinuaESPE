@@ -20,7 +20,7 @@ export const paths = {
     courses: '/dashboard/publicidad',
     
     cursos: '/dashboard/cursos',
-    //settings: '/dashboard/settings',
+    settings: '/dashboard/settings',
     carrusel: '/dashboard/carrusel',
     maestrias: '/dashboard/maestrias'
   },
