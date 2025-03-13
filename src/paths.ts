@@ -18,11 +18,12 @@ export const paths = {
     overview: '/dashboard',
     account: '/dashboard/account',
     courses: '/dashboard/publicidad',
-    
     cursos: '/dashboard/cursos',
     settings: '/dashboard/settings',
     carrusel: '/dashboard/carrusel',
-    maestrias: '/dashboard/maestrias'
+    maestrias: '/dashboard/maestrias', 
+    videos: '/dashboard/videos',
+
   },
   errors: { notFound: '/errors/not-found' },
 } as const;
