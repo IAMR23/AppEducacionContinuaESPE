@@ -8,5 +8,6 @@ export const navItems = [
   { key: 'curso', title: 'Gestion de Curso', href: paths.dashboard.cursos, icon: 'courses' },
   { key: 'maestrias', title: 'Maestrias de cursos', href: paths.dashboard.maestrias, icon: 'maestrias' },
   { key: 'carrusel', title: 'Cursos Presentación', href: paths.dashboard.carrusel, icon: 'presentation-chart' },
+  { key: 'videos', title: 'Cargar Videos', href: paths.dashboard.videos, icon: 'video' }
 
 ] satisfies NavItemConfig[];

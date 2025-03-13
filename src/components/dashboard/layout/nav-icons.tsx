@@ -12,6 +12,7 @@ import { Bell as BellIcon } from '@phosphor-icons/react/dist/ssr/Bell';
 import { CreditCard as CreditCardIcon } from '@phosphor-icons/react/dist/ssr/CreditCard';
 import { ChartBar as PresentationChartIcon } from '@phosphor-icons/react';
 import { Megaphone as MegaphoneIcon } from '@phosphor-icons/react/dist/ssr/Megaphone';
+import { VideoCamera as VideoIcon } from '@phosphor-icons/react/dist/ssr/VideoCamera'; // Importar el ícono de video
 
 export const navIcons = {
   'chart-pie': ChartPieIcon,
@@ -25,6 +26,7 @@ export const navIcons = {
   'presentation-chart': PresentationChartIcon,
   'publicidad': MegaphoneIcon,
   'maestrias' : BookIcon,
+  'video': VideoIcon,
   user: UserIcon,
   users: UsersIcon,
   book: BookIcon,
